@@ -1,5 +1,5 @@
 # :fire: 8_Week_SQL_Challenge :fire:
-This repository contains solutions to the eight case studies from the #8WeekSQLChallenge.
+This repository contains solutions to the study case from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/)
 
 It highlights my expertise in solving SQL challenges while demonstrating my skills in SQL query writing and problem-solving.
 
